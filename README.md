@@ -1,23 +1,22 @@
-# ⏱️ Cronômetro
+Cronômetro
 
 Um cronômetro desenvolvido em Python com uma interface web simples e intuitiva.
 
-## 🚀 Funcionalidades
+Funcionalidades
 
-- ▶️ Iniciar o cronômetro
-- ⏸️ Pausar o cronômetro
-- 🔄 Resetar o tempo
-- ⌨️ Atalho com a tecla Espaço
-- 📱 Interface adaptável para diferentes tamanhos de tela
+Iniciar o cronômetro
+Pausar o cronômetro
+Resetar o tempo
+Atalho com a tecla Espaço
+Interface adaptável para diferentes tamanhos de tela
 
-## 🛠️ Tecnologias
+Tecnologias
+Python
+HTML
+CSS
+JavaScript
 
-- Python
-- HTML
-- CSS
-- JavaScript
-
-## 💻 Como executar
+Como executar
 
 Primeiro, clone o repositório:
 
