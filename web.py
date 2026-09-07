@@ -1,10 +1,3 @@
-from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
-
-
-HOST = "127.0.0.1"
-PORT = 8000
-
-
 HTML = """<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
